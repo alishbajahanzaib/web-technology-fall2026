@@ -11,7 +11,6 @@ A box has `width: 300px; padding: 20px; border: 5px solid; margin: 10px;`
 - N3 how wide the content area is, with `box-sizing: border-box`:250
 
 ## Explain it
-
 Write at least 2 full sentences under each "Your answer:" line, in your own
 words. Don't delete or change the question lines.
 
