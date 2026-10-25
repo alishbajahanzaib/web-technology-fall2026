@@ -1,0 +1,36 @@
+/* author: alishbajahanzaib */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333333;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: tomato;
+    text-align: center;
+}
+
+.tagline {
+    font-size: 18px;
+    text-align: center;
+}
+
+.card {
+    width: 300px;
+    padding: 16px;
+    border: 2px solid rgb(80, 80, 80);
+    margin: 20px;
+    background-color: #ffffff;
+}
+
+.note {
+    color: #1a5276;
+}
+
+#special {
+    color: crimson;
+}
